@@ -2,6 +2,12 @@
 
 This tool can be used to generate relevant XSS addresses that can be used to track HTTP requests. By using this tool, all your injection attempts will be tracked and the reports you generate will include the full HTTP request in the final output.
 
+# Minimum Burp Suite Version
+
+2023.1
+
+Because of the use of Burp Extensions API - Montoya
+
 # Setup
 
 You can download the jar directly and load it into burpsuite.
