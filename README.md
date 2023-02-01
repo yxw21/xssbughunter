@@ -18,7 +18,7 @@ After loading the plugin, a new tab will be created, as shown below.
 
 Just fill in the form and click Login.
 
-`replace` is the javascript address that needs to be replaced.
+`replace` is the javascript address that needs to be replaced. (Try to ensure that `replace` is unlikely to appear in normal http. Guarantee uniqueness.)
 
 For example (`replace` is `test123`)
 
